@@ -17,6 +17,7 @@ gem 'factory_girl_rails'
 
 gem 'twitter-bootswatch-rails', '~> 3.1.1'
 gem 'twitter-bootswatch-rails-helpers'
+gem 'therubyracer'
 gem 'execjs'
 gem 'less-rails'
 
