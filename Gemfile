@@ -20,6 +20,8 @@ gem 'twitter-bootswatch-rails-helpers'
 gem 'therubyracer'
 gem 'execjs'
 gem 'less-rails'
+gem "tabulous"
+gem 'simple_form'
 
 group :development, :test do
   gem "rspec-rails"
@@ -40,4 +42,5 @@ end
 group :development do
   gem 'i18n_generators'
   gem "better_errors"
+  gem "binding_of_caller"
 end

@@ -15,3 +15,8 @@
  *= require flatly/loader
  *= require flatly/bootswatch
  */
+
+body {
+  padding-top: 40px;
+  font-size: 1.8em;
+}
